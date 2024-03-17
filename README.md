@@ -3,7 +3,7 @@
 * Project : A Cap Efficiency Analysis of MLB 1st Baseman Contracts
 * Project duration : 2024.02.15 - 2024.02.29
 * Contributors : Yaeeun Lee, David Leaderman, Jean Baptiste, Olivia Wang, Yedda Tao
-* Presentation Deck: [Download](https://github.com/haydenlee914/hotel-booking-cancellation-prediction/issues/1#issue-2104342522)
+* Presentation Deck: [Download](https://github.com/haydenlee914/Sports-analysis/issues/1#issue-2190500003)
 
 
 Key Business Objectives
